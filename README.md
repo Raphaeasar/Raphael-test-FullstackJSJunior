@@ -19,7 +19,7 @@ Agora é so rodar o projeto. Digitar o comando no terminal:
 
 npm run dev
 
-Usar o Insomnia ou Postman para fazer teste das rotas da API.
+Usar o Insomnia ou Postman para fazer teste das rotas da API. Os códigos das rotas estão na pasta: src/index.js
 
 Rota para listar todos os usuário: http://localhost:3333/api/v1/users, Método GET;
 
@@ -31,4 +31,4 @@ Rota para alterar único usuário: http://localhost:3333/api/v1/users/id, Métod
 
 Rota para excluir todos os usuário: http://localhost:3333/api/v1/users, Método DELETE.
 
-Rota para deletar único usuário: http://localhost:3333/api/v1/users/id, Método DELETE;
+Rota para deletar único usuário: http://localhost:3333/api/v1/users/id, Método DELETE; 
