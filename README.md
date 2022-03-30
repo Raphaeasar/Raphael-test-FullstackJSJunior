@@ -1,6 +1,6 @@
 # Raphael-test-FullstackJSJunior
 
-ara rodar o projeto: 1° passo:
+Para rodar o projeto: 1° passo:
 
 É necessário instalar o pacote de dependências. Após descompactar os arquivos, no diretório raiz do projeto, digitar o seguinte comando no terminal:
 
