@@ -9,6 +9,7 @@ Para rodar o projeto:
 npm install
 
 2° Passo:
+
 É necessário instalar pgAdmin 4 na máquina pois é banco de dados Postgressql. Após instalar ele, será necessário subir a base de dados do projeto no pgAdmin 4.
 O arquivo se encontra na pasta: base de dados/fullstack.sql
 
